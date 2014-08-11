@@ -1,0 +1,15 @@
+1 安装Msysgit 
+下载地址(http://git-scm.com/download)，如果上不了，上googlecode上面下载(http://code.google.com/p/msysgit/)，安装就不多说了，安装成功之后桌面会有一个Git Bash，其实还有一个Git GUI的，不过还是建议熟悉Git command之后再去用GUI。
+
+kidd@KIDD-PC /e/work/git
+$ git --version
+git version 1.8.4.msysgit.0
+
+2. https://github.com/
+login: jssfy/a.
+或者
+创建Github Repository 
+注册Github账户(https://github.com/) 
+在GitHub，一个项目对应唯一的Git版本库，创建一个新的版本库就是创建一个新的项目。访问仪表板（Dashboard）页面，如下图所示，可以看到关注的版本库中已经有一个，但自己的版本库为零。在显示为零的版本库列表面板中有一个按钮“New Repository”，点击该按钮开始创建新版本库。
+https://github.com/jssfy/share
+
